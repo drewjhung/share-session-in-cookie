@@ -1,0 +1,14 @@
+.idea
+*.iml
+log/*
+tmp/*
+target/*
+conf/config.xml
+utils/chef/cookbooks/nginx/files/default/static/*
+utils/chef/cookbooks/api/files/default/*.jar
+utils/chef/cookbooks/api/files/default/lib
+utils/chef/cookbooks/api/templates/default/config.xml.erb
+utils/minify/static
+build/
+ast/build/
+.gradle
